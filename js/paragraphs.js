@@ -1,0 +1,23 @@
+const paragraphs = [
+    "Sabun köpüklerinde gökkuşağının renklerini, lapa lapa yağan karda uçuşan serçeleri görebildiğimiz için Tanrı’ya şükredelim. Eğer bize verilen nimetleri ve bütün güzellikleri",
+    "Herkes mesleğinde ve hayatında birçok karanlık yoldan geçmeye mecburdur. Ancak bu yolları elinde bir ışık olmadan geçmeye çalışmaktansa",
+    "Sözü uzatmak, büyütmek, dallandırmak, gereksiz kelimelerle doldurmak yoktur onda. Ne diyecekse en açık, en doğru biçimde söyler.",
+    "Kışın beyaz güzelliğinin de yazın sıcak ve nemli günlerinin de zevkine var. Her mevsim, her gün, her an gelir geçer ve hiçbiri asla birbirinin aynı ya da tekrarı değildir.",
+    "Kış soğuğunun ortasında yazı, yazın bunaltıcı sıcağında kışı özlemek yerine, her mevsimi kendi güzelliğiyle kabul et",
+    "Kış soğuğunun ortasında yazı, yazın bunaltıcı sıcağında  Onlar, beynimize giden kan ve oksijen miktarını, sinir taşıyıcılarının uyarı düzeyini artırır.",
+    "Oysa gülümseme ve gülme, biyolojik süreci etkileyerek kendimizi daha iyi hissetmemizi sağlar",
+    "Bence edebiyat,bütün türleriyle masalla başlar,masalla biter.Masal,türler içinde en çok şiire yakındır.",
+    "Eşine rastlamadığımız ama umutlarımızı,korkularımızı,sevinçlerimizi taşıyan yeni eşyalar,yeni insanlar,yeni hayvanlar yaratır masal.Bu nedenle en çok şiire yakındır.",
+    "İnsanın doğayla savaşımında korkunun rolü yansımaz.Önemli olan,bu insanca duyguyu iyi değerlendirebilmektir.",
+    "Nasıl ki  kullanılması bilinmeyen bir silah bazen geri tepip büyük zararlara yol açabiliyorsa,korku da  denetim altında",
+    "tutulmayıp kendi başına bırakılırsa sonuç hiç kimse için iyi olmaz.Korkalım;ama neden,niçin korktuğumuzu bilelim.Korkuya yenilme kaygısının tutsağı olmayalım.",
+    "İnsanların beğenileri birbirine uymaz.Belki o kırmızıdan hoşlanıyor,siz yeşili seviyorsunuzdu",
+    "Belki o,Wagner’in müziğini beğeniyor.siz Mozart’ı yeğliyorsunuzdur.",
+    "Gördüklerinden ve dinlediklerinden aldığı tat sizinkine uymuyor diye karşınızdakini zevksizlikle,kabalıkla suçlamaya hakkınız yoktur",
+    "Bu soru,birçok yazara sorulmuştur.Soruyu yanıtlayanlar arasında",
+    "Duyu insan ve hayvanlarda dışarısının etkisini bir organizma yardımıyla duyma yeteneğidir",
+    "Küf yeşili yaprağın üzerinde koyu benekler vardı. Yapraktan acı , kekiğimsi bir koku geliyordu.",
+    "Birden yaprağın üstündeki beneklerden biri kımıldadı.İrkildi adam. Önce gözlerine inanamadı",
+    "Koyu kestane kabuk çıtırdayarak yarıldı, altından tül gibi yarı saydam kanatlar çıktı  Uçuverdi böcek",
+ ];
+ 
